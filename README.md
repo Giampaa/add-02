@@ -2,6 +2,6 @@
 
 Alumno: Leandro Giampaolo
 
-Curso: 5°1° Aviónica
+Curso: 5° 1° Aviónica
 
 Materia: Adquisicion de Datos
